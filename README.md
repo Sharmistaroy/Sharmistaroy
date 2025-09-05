@@ -5,7 +5,14 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can be dumb sometimes
 - not true
-- 
+  # learn syntax <br>
+  ## this is h2
+ - (- or + ) for lists
+ - next
+    - indent
+ - 1. means you get an alphabet
+   2. another alpha
+   3. 
 
 <!---
 Sharmistaroy/Sharmistaroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
