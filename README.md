@@ -10,9 +10,12 @@
  - (- or + ) for lists
  - next
     - indent
- - 1. means you get an alphabet
-   2. another alpha
-   3. 
+ - 1. means you get an alphabet/ roman number
+   2. another alpha/ roman
+  
+ - [the description of the link](link)
+ - ('highlight')
+ - 
 
 <!---
 Sharmistaroy/Sharmistaroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
